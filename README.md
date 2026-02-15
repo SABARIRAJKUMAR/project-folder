@@ -51,4 +51,4 @@ Six classification models were implemented and evaluated:
 
 ## Deployment
 - Streamlit App deployed on Streamlit Community Cloud.  
-- [Live App Link](https://your-streamlit-app-link)  
+- [Live App Link](https://project-folder-5jcq5wwclnvx72gdxamwrz.streamlit.app/)  
